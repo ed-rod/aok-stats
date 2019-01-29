@@ -1,7 +1,3 @@
-/*
- * Copyright (c) PRGX.
- * All Rights Reserved.
- */
 package uk.co.eduardo.aok;
 
 import org.junit.Assert;
@@ -10,7 +6,7 @@ import org.junit.Test;
 /**
  * Placeholder test class.
  *
- * @author erodri02
+ * @author Ed
  */
 public class TestViewer
 {
